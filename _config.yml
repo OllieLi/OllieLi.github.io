@@ -1,8 +1,8 @@
 # Site settings
-title: 猫狗窝
+title: Ollie的博客
 header-img: "img/mimi.jpg"
-tagline: "喵汪汪汪喵"  
-description: "睡醒了 又是一条好汉"  
+tagline: "OllieLi"  
+description: "欢迎来到Ollie的网站"  
 baseurl: ""
 url: ""  
 #url: "http://localhost:4000"
